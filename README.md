@@ -9,11 +9,7 @@ flowchart TD
   D --> E
 
 
----
-config:
-  layout: fixed
-  look: neo
----
+
 flowchart TD
     n1["Marmaidchart"] --> n2["What is this?"]
     n3["This is sample label"]
